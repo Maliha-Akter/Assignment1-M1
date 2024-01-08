@@ -287,10 +287,19 @@ body {
 }
 
 /* pic of column and row */
-.column img {
+.column{
     margin-top: 10px;
-    width: 430px;
-    height: 400px;
+    /* width: 200px;
+    height: 200px; */
+    
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+.column img {
+    
 }
 
 /* subscribe section style */
