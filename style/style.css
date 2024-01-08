@@ -226,7 +226,7 @@ body {
 
 .image-sale {
     height: 700px;
-    margin: 0px 170px 140px;
+    margin: 0px 100px 140px;
     background-color: #FFF;
     position: relative;
 
@@ -240,7 +240,7 @@ body {
 
 .img3 {
     top: 100px;
-    left: 740px;
+    left: 440px;
     z-index: 1;
 
     
@@ -252,7 +252,7 @@ body {
 }
 
 .img4 {
-    left: 0;
+    left: -160px;
     top: 0;
 }
 
