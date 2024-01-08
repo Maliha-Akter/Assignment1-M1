@@ -159,7 +159,17 @@ body {
 }
 .div-round{
    justify-content: space-between;
+   
     
+}
+.column-round1{
+    padding-left: 30px;
+   padding-right: 30px;
+}
+.column-round3{
+    padding-top: 50px;
+    padding-left: 70px;
+  
 }
 .column-round2 img {
     border: 18px solid red;
@@ -254,6 +264,7 @@ body {
 .img4 {
     left: -160px;
     top: 0;
+    
 }
 
 /* adding gift-section */
